@@ -14,12 +14,13 @@
                 <div class="row justify-content-between">
                   <div class="col-md-4 img-profile">
                     <div class="d-flex justify-content-center">
-                      <img src="/img/boyolali.png" class="img-fluid rounded-circle" alt="Cinque Terre">
+                      <img src="/img/banyuurip.jpeg" class="img-fluid rounded-circle" alt="Cinque Terre">
                     </div>
                   </div>
                   <div class="col-md-8" >
-                    <h3 class="text-green font-weight-bold">Desa Kendel</h3>
-                    <p>Kecamatan Kemusu, Boyolali, Jawa Tengah, Indonesia</p>
+                    <h3 class="text-green font-weight-bold">Desa Banyuurip</h3>
+                    <p>Jalan Karanggede - Gemolong KM 10, Desa Banyuurip, Kecamatan Klego
+Kabupaten Boyolali, Jawa Tengah 57385</p>
                   </div>
                 </div>
               </div>
@@ -32,8 +33,8 @@
                     </div>
                   </div>
                   <div class="col-md-8">
-                    <h3 class="text-green font-weight-bold">Kusmanto</h3>
-                    <p>Kepala Desa Klego</p>
+                    <h3 class="text-green font-weight-bold">M. Mukorobin</h3>
+                    <p>Kepala Desa Banyuurip</p>
                   </div>
                 </div>
               </div>
@@ -51,7 +52,7 @@
               <div class="col-md-12 align-items-center">
                 <h3 class="text-green font-weight-bold" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">VISI</h3>
                 <p class="indent" style="text-align: justify" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
-                  Terwujudnya masyarakat Kendel yang mandiri menuju Boyolali tersenyum yang Pro Investasi untuk mencapai masyarakat yang sehat dan sejahtera.
+                  Visi adalah suatu gambaran yang memandang tentang keadaan masa depan yang diinginkan  dengan melihat potensi dan kebutuhan desa. Pada tahun 2013-2018 Desa Banyuurip memiliki Visi Dengan Berpola Hidup Demokratis, Cerdas, Mandiri, Kreatif dan Produktif yang dilandasi Akhlak Mulia Menuju Terwujudnya Masyarakat Sejahtera Lahir dan Batin.
                 </p>
               </div>
             </div>
@@ -66,12 +67,16 @@
                   Misi merupakan pernyataan tentang apa yang harus dilaksanakan dalam upaya mencapai visi. Misi merupakan turunan dari pokok-pokok visi yang telah diidentifikasi sebelumnya.
                 </p> -->
                 <ol class="pl-5">
-                  <li>Meningkatkan pembangunan inrastruktur yang mendukung perekonomian desa.</li>
-                  <li>Mewujudkan sarana prasarana desa yang baik.</li>
-                  <li>Menciptakan tata kelola pemerintahan yang baik.</li>
-                  <li>Mewujudkan desa yang unggul dan berprestasi.</li>
-                  <li>Mewujudkan masyarakat yang sehat dan sejahtera.</li>
+                  <li>Untuk menumbuh kembangkan keinginan masyarakat dalam memenuhi sehari-hari sesuai dengan situasi dan kondisi Sumber Daya Alam (SDA) Desa Banyuurip.</li>
+                  <li>Mengikutsertakan anggota kelompok tani dalam program Sekolah Latihan Pemberantasan Hama Terpadu (SLPHT) dalam rangka peningkatan Sumber Daya Manusia khususnya bidang pertanian.</li>
+                  <li>Menghidupkan dan membina peran kelompok tani dengan bekerjasama dan mengoptimalkan petugas penyuluh pertanian untuk dapat mengembangkan budidaya tanaman hortikultura untuk menjadikan Desa Banyuurip sebagai Desa Sentral Pertanian, Desa yang mampu mewujudkan pertanian yang modern dengan mengembangkan penggunaan pupuk organik yang ramah lingkungan untuk mewujudkan swasembada pangan.</li>
+                  <li>Meningkatkan usaha produksi industri rumah tangga dengan memberikan peluang pinjaman lunak untuk dapat mengembangkan usahanya, dan memberikan pelatihan ketrampilan untuk menjadikan tenaga yang profesional sesuai dengan bidangnya masing-maisng bekerjasama dengan dinas instansi terkait yang membidanginya.</li>
+                  <li>Memfasilitasi kemitraan usaha untuk pemasaran dan pelatihan manajemen untuk memperluas lapangan kerja.</li>
+                  <li>Menjadikan masyarakat Desa Banyuurip berbudi pekerti luhur, tangguh, sehat jasmani dan rohaninya, cerdas, patriotik, berdisiplin, kreatif, produktif berjiwa iman dan bertaqwa serta demokratis demi terciptanya SDM yang berkualitas.</li>
+                  <li>Meningkatkan upaya pemerataan pembangunan di segala bidang pada semua lapisan masyarakat untuk mewujudkan kemakmuran.</li>
+                  <li>Mewujudkan aparat pemerintah desa yang berfungsi sebagai pelayan masyarakat yang profesional,berdaya guna dan berhasil guna,sehingga terwujud Pemerintah Desa yang bersih dan berwibawa.</li>
                 </ol>
+
               </div>
             </div>
           </div>

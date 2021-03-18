@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-white" id="nav">
       <a class="navbar-brand" href="#" data-aos="zoom-in">
-        <img class="img-logo" id="logo-img" src="/img/boyolali.png" alt="PrimaVillage">
+        <img class="img-logo" id="logo-img" src="/img/banyuurip.jpeg" alt="PrimaVillage">
       </a>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">

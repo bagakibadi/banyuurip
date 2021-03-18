@@ -35,7 +35,7 @@
               </a>
             </li>
             <li>
-              <a class="text" target="_blank" data-translatable="" href="http://banyuurip.primavillage.id/" data-dom-i18n-id="i18n1615261805891108.26124095196698">BUMDesa Banyu Urip
+              <a class="text" target="_blank" data-translatable="" href="http://banyuurip.primavillage.id/" data-dom-i18n-id="i18n1615261805891108.26124095196698">BUMDesa Banyuurip
               </a>
             </li>
           </ul>
@@ -51,7 +51,8 @@
                 <i class="fas fa-map-marker-alt"></i>
               </span>
               <span class="text">
-                Kecamatan Kemusu, Boyolali, Jawa Tengah, Indonesia
+                Jalan Karanggede - Gemolong KM 10, Desa Banyuurip, Kecamatan Klego
+Kabupaten Boyolali, Jawa Tengah 57385
               </span>
             </li>
           </ul>

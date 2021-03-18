@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9646c53435b8ac6aa779dbb28da8db57.js"
+  "/precache-manifest.48129e2cd11559461dc43818cbe6a4c1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "profile-desa"});

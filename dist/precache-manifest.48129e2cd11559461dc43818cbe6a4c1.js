@@ -12,32 +12,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/fonts/semibold.ttf"
   },
   {
-    "revision": "83f19a623b663654e2c5",
-    "url": "/css/app.7247bb11.css"
+    "revision": "51adc4056cee1a6022b962a89337ed1d",
+    "url": "/banyuurip.ico"
+  },
+  {
+    "revision": "c5cce746f37e3933e91f",
+    "url": "/css/app.32158c6a.css"
   },
   {
     "revision": "77f8dc165f5d30fbd4e7",
     "url": "/css/chunk-vendors.0d9171ac.css"
   },
   {
-    "revision": "bbd332924b91999704fb0e001234b087",
-    "url": "/img/boyolali.png"
+    "revision": "b936167a8a170a70833525bba4b9e362",
+    "url": "/img/banyuurip.jpeg"
   },
   {
-    "revision": "ebf0168d2896487b62f9e6b2a9694362",
+    "revision": "cb4c42db854d2218803fb9bae8af7846",
     "url": "/index.html"
   },
   {
-    "revision": "83f19a623b663654e2c5",
-    "url": "/js/app.150df057.js"
+    "revision": "c5cce746f37e3933e91f",
+    "url": "/js/app.0adbde07.js"
   },
   {
     "revision": "77f8dc165f5d30fbd4e7",
     "url": "/js/chunk-vendors.175ffbb6.js"
-  },
-  {
-    "revision": "5258c2d2ee0d581ef7b14b06be254547",
-    "url": "/logo.ico"
   },
   {
     "revision": "bd0b0959c86fdac6da2ed856997e0c85",
