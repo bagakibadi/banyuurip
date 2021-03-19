@@ -14,7 +14,7 @@
                 <div class="row justify-content-between">
                   <div class="col-md-4 img-profile">
                     <div class="d-flex justify-content-center">
-                      <img src="/img/banyuurip.jpeg" class="img-fluid rounded-circle" alt="Cinque Terre">
+                      <img src="/img/banyuurip.png" class="img-fluid rounded-circle" alt="Cinque Terre">
                     </div>
                   </div>
                   <div class="col-md-8" >
@@ -33,7 +33,7 @@ Kabupaten Boyolali, Jawa Tengah 57385</p>
                     </div>
                   </div>
                   <div class="col-md-8">
-                    <h3 class="text-green font-weight-bold">M. Mukorobin</h3>
+                    <h3 class="text-green font-weight-bold">Haryanto, S.H.</h3>
                     <p>Kepala Desa Banyuurip</p>
                   </div>
                 </div>
@@ -76,24 +76,10 @@ Kabupaten Boyolali, Jawa Tengah 57385</p>
                   <li>Meningkatkan upaya pemerataan pembangunan di segala bidang pada semua lapisan masyarakat untuk mewujudkan kemakmuran.</li>
                   <li>Mewujudkan aparat pemerintah desa yang berfungsi sebagai pelayan masyarakat yang profesional,berdaya guna dan berhasil guna,sehingga terwujud Pemerintah Desa yang bersih dan berwibawa.</li>
                 </ol>
-
               </div>
             </div>
           </div>
         </div>
-        <!-- <div class="action-section bg-white" style="overflow: hidden" id="struktur">
-          <div class="container">
-            <h1 class="font-weight-bold text-center mb-5" style="color: #076825 !important" data-aos="fade-up" data-aos-delay="200" data-aos-duration="800"><span>
-                Struktur Organisasi
-              </span>
-            </h1>
-            <div class="row">
-              <div class="col-md-12">
-                <img src="/img/struktur.png" class="img-struktur" alt="" data-aos="fade-up" data-aos-delay="300" data-aos-duration="800">
-              </div>
-            </div>
-          </div>
-        </div> -->
         <div class="action-section bg-white" style="overflow: hidden" id="berita">
           <div class="container">
             <h1 class="font-weight-bold text-center mb-5" style="color: #076825 !important" data-aos="fade-up" data-aos-delay="400" data-aos-duration="800"><span>
@@ -105,7 +91,7 @@ Kabupaten Boyolali, Jawa Tengah 57385</p>
                 <div class="cards">
                   <div class="penampungimg">
                     <a target="new" href="#">
-                      <img src="https://mice.id/warehouse/assets/news/news_images_1609425816.jpg" class="imgcontent">
+                      <img src="/img/news.jpg" class="imgcontent">
                     </a>
                   </div>
                   <div class="dalemcards">
@@ -113,7 +99,7 @@ Kabupaten Boyolali, Jawa Tengah 57385</p>
                       <h1 id="juduld" class="juduldalam">Destinasi</h1>
                     </a>
                     <p class="text-muted tanggal">2020-12-31 14:43:36</p>
-                    <p class="sinopsiscard">Bali: Surga Lokasi Penyelenggaraan Event MICE</p>
+                    <p class="sinopsiscard">Berita Terkini</p>
                     <hr>
                     <div style="display: flex;">
                       <div class="icons">
@@ -132,9 +118,6 @@ Kabupaten Boyolali, Jawa Tengah 57385</p>
                             <i class="fa fa-link example-popover"></i>
                           </div>
                         </a>
-                        <!-- <a href="https://www.instagram.com/Mice_indonesia/" target="_blank">
-                          <div class="imgsoc" title="Instagram Mice Indonesia"></div>
-                        </a> -->
                       </div>
                     </div>
                   </div>
@@ -168,48 +151,10 @@ export default {
     return {
       berita: [
         {
-          id: 1,
-          nama: 'asu'
+          id: 1
         },
         {
-          id: 2,
-          nama: 'asu'
-        },
-        {
-          id: 3,
-          nama: 'asu'
-        },
-        {
-          id: 4,
-          nama: 'asu'
-        },
-        {
-          id: 5,
-          nama: 'asu'
-        },
-        {
-          id: 6,
-          nama: 'asu'
-        },
-        {
-          id: 7,
-          nama: 'asu'
-        },
-        {
-          id: 8,
-          nama: 'asu'
-        },
-        {
-          id: 9,
-          nama: 'asu'
-        },
-        {
-          id: 10,
-          nama: 'asu'
-        },
-        {
-          id: 11,
-          nama: 'asu'
+          id: 2
         }
       ],
       pageOfItems: []

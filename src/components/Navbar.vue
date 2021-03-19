@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-white" id="nav">
       <a class="navbar-brand" href="#" data-aos="zoom-in">
-        <img class="img-logo" id="logo-img" src="/img/banyuurip.jpeg" alt="PrimaVillage">
+        <img class="img-logo" id="logo-img" src="/img/banyuurip.png" alt="PrimaVillage">
       </a>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
@@ -26,7 +26,7 @@
             </a>
           </li>
           <li class="nav-item" data-aos="fade-left" data-aos-delay="600" data-aos-duration="800">
-            <a class="js-scroll-trigger mr-3" href="http://bumdes.primakom.co.id/kendel" target="_blank" data-translatable="" data-dom-i18n-id="i18n161525634233560.02850891091693">Portal
+            <a class="js-scroll-trigger mr-3" href="http://bumdes.primakom.co.id/banyuurip" target="_blank" data-translatable="" data-dom-i18n-id="i18n161525634233560.02850891091693">Portal
             </a>
           </li>
         </ul>

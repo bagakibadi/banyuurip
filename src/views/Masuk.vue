@@ -28,7 +28,7 @@
                <div class="col-md-6">
                   <div class="box-right">
                      <a href="/">
-                        <img src="/img/banyuurip.jpeg" class="w-100" style="height: 335px;object-fit: contain;" alt="">
+                        <img src="/img/banyuurip.png" class="w-100" style="height: 335px;object-fit: contain;" alt="">
                      </a>
                   </div>
                </div>
